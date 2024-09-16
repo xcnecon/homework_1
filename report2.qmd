@@ -14,6 +14,11 @@ format:
 bibliography: references.bib
 ---
 
+# Comment {.unnumbered}
+
+- Good Job. Just one minor thing. You didnt add the "author" to YAML front matter. You should add this to your work, paper, HW, etc.
+- Grade: 10/10
+
 # Introduction
 StarCraft, a real-time strategy game developed by Blizzard Entertainment, has left an indelible mark on the esports landscape. This report explores the strategic complexity of StarCraft and its enduring impact on competitive gaming. We will examine the game’s mechanics, its influence on player decision-making, and its role in shaping the modern esports industry.
 
